@@ -1,3 +1,5 @@
+
+
 Features: Describe the key features of the software, such as the ability to interactively explore 3D DICOM images, adjust visualization settings, and annotate structures of interest.
 Implementation Details: Provide an overview of how the software is implemented, including the use of Python programming language, the role of Pydicom in reading DICOM files, and how VTK is used to create 3D visualizations.
 Usage Examples: Include examples of how the software can be used in medical imaging applications, such as identifying nerve structures in MRI or CT scans.
